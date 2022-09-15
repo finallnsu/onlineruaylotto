@@ -1,8 +1,7 @@
-
 {
-  "name": "เว็บหวยแนะนำ จ่ายบาทละ 950 การันตีจ่ายไวจ่ายจริง",
-  "main": "./lib/onlineruaylotto",
-  "version": "1.0.1",
+  "name": "onlineruaylotto",
+  "theme": "syntax",
+  "version": "0.0.0",
   "description": "นี่คือเว็บไซต์ที่มีคุณสมบัติทั้งหมดของเว็บไซต์ลอตเตอรีที่ดี เช่น โบนัสสูงและฟรีสปิน พวกเขายังมีโปรโมชั่นมากมายพร้อมโบนัสสูงเพื่อให้ผู้คนสนใจเว็บไซต์",
   "keywords": [
     "หวยออนไลน์",
@@ -10,7 +9,7 @@
     "เว็บหวยออนไลน์",
     "เว็บหวยแนะนำ"
   ],
-  "repository": "https://github.com/finallnsu/onlineruaylotto/",
+  "repository": "https://github.com/finallnsu/onlineruaylotto.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
